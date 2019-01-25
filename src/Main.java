@@ -20,9 +20,8 @@ public class Main {
         System.out.println(arrayString);
 
         int sum = 0;
-        for (int i = 0; i < numbers.length; i++){
+        for (int i = 0; i < numbers.length; i++)
             sum = sum + numbers[i];
-        }
 
         /*
         int sum = 0;
